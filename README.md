@@ -285,4 +285,4 @@ This line is only separated by a single newline, so it's a separate line in the 
 
 (Technical note: Markdown Here uses GFM line breaks, so there's no need to use MD's two-space line breaks.)
 
-License: CC-BY
+License: [CC-BY](https://creativecommons.org/licenses/by/2.0/)
